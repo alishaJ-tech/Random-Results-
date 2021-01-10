@@ -1,0 +1,13 @@
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.csprojAssemblyReference.cache
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.AssemblyInfoInputs.cache
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.AssemblyInfo.cs
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.csproj.CoreCompileInputs.cache
+C:\Users\muftanatu\randomResults\bin\Debug\netcoreapp3.1\randomResults.exe
+C:\Users\muftanatu\randomResults\bin\Debug\netcoreapp3.1\randomResults.deps.json
+C:\Users\muftanatu\randomResults\bin\Debug\netcoreapp3.1\randomResults.runtimeconfig.json
+C:\Users\muftanatu\randomResults\bin\Debug\netcoreapp3.1\randomResults.runtimeconfig.dev.json
+C:\Users\muftanatu\randomResults\bin\Debug\netcoreapp3.1\randomResults.dll
+C:\Users\muftanatu\randomResults\bin\Debug\netcoreapp3.1\randomResults.pdb
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.dll
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.pdb
+C:\Users\muftanatu\randomResults\obj\Debug\netcoreapp3.1\randomResults.genruntimeconfig.cache
